@@ -1,0 +1,24 @@
+
+body{
+    background-color: rgb(200, 246, 230);
+}
+
+button{
+    width: 200px;
+    height: 100px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 3px;
+   
+}
+
+.start{
+    background-color: darkturquoise;
+  
+}
+
+.stop{
+    background-color: crimson;
+}
